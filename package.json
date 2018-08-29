@@ -1,0 +1,12 @@
+{
+  "name": "decorator-cache",
+  "version": "1.0.0",
+  "description": "A simple wrapper around node-cache that can be used as a decorator to cache function results",
+  "main": "index.js",
+  "author": "Martynas Kanapinskas",
+  "license": "MIT",
+  "dependencies": {
+    "node-cache": "^4.2.0",
+    "object-hash": "^1.3.0"
+  }
+}
